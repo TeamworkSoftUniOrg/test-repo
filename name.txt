@@ -1,5 +1,14 @@
 My name is Hulya!
 
 I 18 year old
+<<<<<<< HEAD
 
 email-hbosnak0604@gmail.com
+=======
+<<<<<<< HEAD
+hkjh
+zxczxcxz
+=======
+I am Nadya Ivanova
+>>>>>>> 2a0946307981d0d3a67cd7407650b4b19e08c56b
+>>>>>>> 7a992a30ece9cf01e463e22b1f1bf4a3e6071fd5
