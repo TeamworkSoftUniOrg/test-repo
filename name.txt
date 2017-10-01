@@ -1,5 +1,9 @@
 My name is Hulya!
 
 I 18 year old
+<<<<<<< HEAD
 hkjh
 zxczxcxz
+=======
+I am Nadya Ivanova
+>>>>>>> 2a0946307981d0d3a67cd7407650b4b19e08c56b
